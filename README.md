@@ -4,7 +4,7 @@ This is a random message generator program. Everytime the user runs the program,
 
 ## Installation
 
-Download Node.js
+Download Node.js https://nodejs.org
 
 ## Usage
 
