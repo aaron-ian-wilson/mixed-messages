@@ -8,4 +8,4 @@ Download Node.js https://nodejs.org
 
 ## Usage
 
-Run this script locally using Node.js by opening your terminal or command prompt and navigating to the directory with the file is located. Now run the file using ```node script.js``` 
+Run this script locally using Node.js by opening your terminal or command prompt and navigating to the directory where the file is located. Now run the file using ```node script.js``` 
